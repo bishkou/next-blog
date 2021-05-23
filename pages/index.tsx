@@ -8,7 +8,6 @@ const {BLOG_URL, CONTENT_API_KEY} = process.env;
 type Post = {
   title: string,
   slug: string
-
 }
 
 
